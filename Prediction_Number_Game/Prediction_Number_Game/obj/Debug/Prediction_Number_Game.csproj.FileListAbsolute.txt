@@ -1,0 +1,10 @@
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\bin\Debug\Prediction_Number_Game.exe.config
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\bin\Debug\Prediction_Number_Game.exe
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\bin\Debug\Prediction_Number_Game.pdb
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.csprojResolveAssemblyReference.cache
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.oyun_ekrani_frm.resources
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.Properties.Resources.resources
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.csproj.GenerateResource.Cache
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.exe
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.pdb
+C:\Users\Mert Topcuoğlu\Desktop\CSTech\Prediction_Number_Game\Prediction_Number_Game\obj\Debug\Prediction_Number_Game.bilgiEkran_frm.resources
